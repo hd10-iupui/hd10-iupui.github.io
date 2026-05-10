@@ -52,6 +52,7 @@ Unsupervised keyphrase extraction using attention mechanisms.
 
 - Email: hding192@gmail.com
 - GitHub: https://github.com/hd10-iupui
+- Google Scholar: https://scholar.google.com/citations?user=v0YBu_MAAAAJ&hl=en&oi=sra
 
 ---
 
